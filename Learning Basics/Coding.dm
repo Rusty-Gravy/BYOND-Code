@@ -40,6 +40,10 @@ turf
 		density = 1
 	start
 		icon = 'floor.dmi'
+	trap
+		pit
+		quicksand
+		glue
 
 mob
 	icon = 'player.dmi'

@@ -1,10 +1,10 @@
 // BEGIN_INTERNALS
 /*
 MAP_ICON_TYPE: 0
-WINDOW: Coding.dm;icons\map.dmm
+WINDOW: Coding.dm
 LAST_COMPILE_VERSION: 506.1247
 DIR: icons 
-FILE: icons\map.dmm
+FILE: Coding.dm
 LAST_COMPILE_TIME: 1434197474
 AUTO_FILE_DIR: ON
 */
