@@ -45,6 +45,23 @@ turf
 		quicksand
 		glue
 
+turf/trap/pit
+   tar
+   lava
+   bottomless
+	/* Variatons of trap turf encodings
+turf/trap
+   pit; quicksand; glue
+
+turf/trap
+{
+   pit
+   quicksand
+   glue
+}
+*/
+
+
 mob
 	icon = 'player.dmi'
 
